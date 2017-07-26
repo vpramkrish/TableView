@@ -17,7 +17,6 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("changes")
         
     }
     override func didReceiveMemoryWarning() {
